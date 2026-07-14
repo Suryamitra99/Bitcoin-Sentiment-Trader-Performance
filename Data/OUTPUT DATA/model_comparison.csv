@@ -1,0 +1,5 @@
+Model,Task,Metric 1,Value 1,Metric 2,Value 2
+Logistic Regression,win/loss,Accuracy,0.735733435465339,AUC,0.7027080893701434
+Random Forest Classifier,win/loss,Accuracy,0.7386537725009575,AUC,0.5291582251741752
+Linear Regression,Closed PnL,RMSE,1763.317391704364,R²,-0.2620803190916463
+Random Forest Regressor,Closed PnL,RMSE,1663.9806679301203,R²,-0.12388678611816739
